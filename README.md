@@ -15,8 +15,6 @@ For layout, the app uses grid-style collections for category images because Appl
 - **Browse Categories** - Explore meals organized by categories (Beef, Chicken, Dessert, Seafood, Pasta, etc.)
 - **View Recipes** - Access detailed recipes with ingredients list and step-by-step cooking instructions
 - **Save Favorites** - Bookmark favorite recipes with heart button, saved locally using AsyncStorage
-- **Persistent Storage** - Favorites persist across app sessions and device restarts
-- **Real-time Feedback** - Immediate visual feedback on all interactions with loading states
 
 ## API Used
 
